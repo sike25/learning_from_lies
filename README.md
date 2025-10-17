@@ -1,4 +1,6 @@
-### Abstract 
+### Learning From Lies: Online Data Generation to Improve Scaling Laws of Neural Networks
+
+#### Abstract 
 
 Training deep neural networks at scale is increasingly contrained by fundamental problems of data scarcity. In this project, we propose a fast and cheap pipeline for online data generation in trainign supervised learning models. 
 
